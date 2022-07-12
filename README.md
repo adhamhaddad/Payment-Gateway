@@ -1,1 +1,1 @@
-# Peyment-Gateway
+# Payment-Gateway
